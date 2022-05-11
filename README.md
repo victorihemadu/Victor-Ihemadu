@@ -7,14 +7,14 @@ Victor is a customer centric software developer with 2 years experience solving 
 
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on a multi-vendor e-commerce web application.
-- * 🧠  I'm currently learning React
-- * 🤝  I'm open to collaborating on Open Source projects involving Go.
-- - 💬 Ask me about Go programming language
-- - 🤔 I’m looking for help with Docker
+- 🧠  I'm currently learning React
+- 🤝  I'm open to collaborating on Open Source projects involving Go.
+- 💬 Ask me about Go programming language
+- 🤔 I’m looking for help with Docker
 * ⚡  I stay productive when I drink lots of water......so I drink about 7 litres on average😎.
-* * 🌍  I'm based in Lagos, Nigeria
-* * ✉️  You can contact me at [victor.ihemadu@gmail.com](mailto:victor.ihemadu@gmail.com)
-* - 📫 How to reach me: +2348160967596
+* 🌍  I'm based in Lagos, Nigeria
+* ✉️  You can contact me at [victor.ihemadu@gmail.com](mailto:victor.ihemadu@gmail.com)
+* 📫 How to reach me: +2348160967596
 
 <a href="https://www.twitter.com/GoVictor10" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/GoVictor10?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
