@@ -7,10 +7,10 @@ Victor is a customer centric software developer with 2 years experience solving 
 
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on a multi-vendor e-commerce web application.
-- 🤔 I’m looking for help with Docker and Kubernetes
-- 💬 Ask me about Go programming language
-* 🧠  I'm currently learning React
-* 🤝  I'm open to collaborating on Open Source projects involving Go.
+- * 🧠  I'm currently learning React
+- * 🤝  I'm open to collaborating on Open Source projects involving Go.
+- - 💬 Ask me about Go programming language
+- 🤔 I’m looking for help with Docker
 * ⚡  I stay productive when I drink lots of water......so I drink about 7 litres on average😎.
 * * 🌍  I'm based in Lagos, Nigeria
 * * ✉️  You can contact me at [victor.ihemadu@gmail.com](mailto:victor.ihemadu@gmail.com)
