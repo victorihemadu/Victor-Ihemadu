@@ -1,9 +1,7 @@
-### Hi there 👋 My name is Victor Ihemadu
-
-I am a Software Engineer
+### Hi there 👋 My name is Victor Ihemadu and I am a Software Engineer
 -----------------
 
-Victor is a customer centric software developer with 2 years experience solving problems with technology in an agile environment. Victor helps companies and startups scale up by building robust scalable applications.
+A customer centric software developer with 2 years experience solving problems with technology in an agile environment. I helps companies and startups scale up by building robust scalable applications.
 
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on a multi-vendor e-commerce web application.
