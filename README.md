@@ -9,7 +9,7 @@ A customer centric software developer with 2 years experience solving problems w
 - 🤝  I'm open to collaborating on Open Source projects involving Go.
 - 💬 Ask me about Go programming language
 - 🤔 I’m looking for help with Docker
-* ⚡  I stay productive when I drink lots of water......so I drink about 7 litres on average😎.
+* ⚡ If I wasn't coding, Cristiano Ronaldo would be working at McDonald's. Yeah, I'm that prolific at soccer (#facts).
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [victor.ihemadu@gmail.com](mailto:victor.ihemadu@gmail.com)
 * 📫 How to reach me: +2348160967596
