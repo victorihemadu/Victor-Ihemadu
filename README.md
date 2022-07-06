@@ -8,7 +8,7 @@ A customer centric software developer with 2 years experience solving problems w
 - 🧠  I'm currently learning React
 - 🤝  I'm open to collaborating on Open Source projects involving Go.
 - 💬 Ask me about Go programming language
-- 🤔 I’m looking for help with Docker
+- 🤔 I’m looking for help with Kubernetes
 * ⚡ If I wasn't coding, Cristiano Ronaldo would be working at McDonald's. Yeah, I'm that prolific at soccer (#facts😃).
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [victor.ihemadu@gmail.com](mailto:victor.ihemadu@gmail.com)
