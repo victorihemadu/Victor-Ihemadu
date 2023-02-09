@@ -1,8 +1,8 @@
-### Hi there 👋 My name is Victor Ihemadu and I am a Software Engineer
+### Hi there 👋 My name is Victor Ihemadu and I am a Software Developer
 -----------------
 
 A customer centric software developer with 2 years experience solving problems with technology in an agile environment. I helps companies and startups scale up by building robust scalable applications.
-- 🧠  I'm currently learning React
+- 🧠  I'm currently learning Angular
 - 🤝  I'm open to collaborating on Open Source projects involving Go.
 - 💬 Ask me about Go programming language
 - 🤔 I’m looking for help with Kubernetes
