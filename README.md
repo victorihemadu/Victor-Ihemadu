@@ -5,7 +5,7 @@ A customer centric software developer with 2 years experience solving problems w
 - 🧠  I'm currently learning JavaScript
 - 🤝  I'm open to collaborating on Open Source projects involving JavaScript.
 - 💬 Ask me about Javascript
-- 🤔 I’m looking for help with Kubernetes
+- 🤔 I’m looking for help with Techincal Writing.
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [victor.ihemadu@gmail.com](mailto:victor.ihemadu@gmail.com)
 * 📫 How to reach me: +2348160967596
