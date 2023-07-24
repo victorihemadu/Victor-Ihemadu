@@ -1,11 +1,9 @@
 ### Hi there 👋 My name is Victor Ihemadu and I am a Software Developer
 -----------------
 
-A customer centric software developer with 2 years experience solving problems with technology in an agile environment. I helps companies and startups scale up by building robust scalable applications.
-- 🧠  I'm currently learning JavaScript
-- 🤝  I'm open to collaborating on Open Source projects involving JavaScript.
-- 💬 Ask me about Javascript
-- 🤔 I’m looking for help with Techincal Writing.
+A customer-centric software developer with 3 years of experience solving problems with Golang in an agile environment. I help companies and startups scale up by building robust scalable applications.
+- 🤝  I'm open to collaborating on Open Source projects involving Golang.
+- 💬 Ask me about Golang
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [victor.ihemadu@gmail.com](mailto:victor.ihemadu@gmail.com)
 * 📫 How to reach me: +2348160967596
