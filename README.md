@@ -1,10 +1,9 @@
-### Hi there 👋 My name is Victor Ihemadu and I am a Software Developer
+### Hi there 👋 My name is Victor Ihemadu and I am a Golang Developer
 -----------------
 
-A customer-centric software developer with 3 years of experience solving problems with Golang in an agile environment. I help companies and startups scale up by building robust scalable applications.
+A user-centric Golang developer with 3 years of experience building scalable applications with Golang in an agile environment. My major tech stack is Go, JavaScript, Docker, GCP, PostgreSQL
 - 🤝  I'm open to collaborating on Open Source projects involving Golang.
-- 💬 Ask me about Golang
-* 🌍  I'm based in Lagos, Nigeria
+* 🌍  100% Remote Work
 * ✉️  You can contact me at [victor.ihemadu@gmail.com](mailto:victor.ihemadu@gmail.com)
 * 📫 How to reach me: +2348160967596
 
