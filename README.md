@@ -7,10 +7,10 @@ A user-centric Golang developer with 3 years of experience building scalable app
 * ✉️  You can contact me at [victor.ihemadu@gmail.com](mailto:victor.ihemadu@gmail.com)
 * 📫 How to reach me: +2348160967596
 
-<a href="https://www.twitter.com/GoVictor10" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/GoVictor10?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
-/></a><a href="https://www.github.com/Victor-Ihemadu" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Victor-Ihemadu?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
+<a href="https://www.twitter.com/bigDevContains" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/bigDevContains?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
+/></a><a href="https://www.github.com/bigDevContains" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/bigDevContains?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
 ## Skills
 
 <p align="left">
@@ -25,12 +25,12 @@ src="https://img.shields.io/github/followers/Victor-Ihemadu?logo=github&style=fo
 
 ## Socials
 
-<p align="left"> <a href="https://www.codesandbox.com/Victor-Ihemadu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> <a href="https://www.github.com/Victor-Ihemadu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/victor-ihemadu-95103b163/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/ozcarbenson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bigDevContains" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.codesandbox.com/bigDevContains" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> <a href="https://www.github.com/bigDevContains" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bigdevcontains/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/ozcarbenson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bigDevContains" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ## Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Victor-Ihemadu"><img src="https://github-readme-stats.vercel.app/api?username=bigDevContains&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="bigDevContain's GitHub stats" /></a>
+<a href="http://www.github.com/bigDevContains"><img src="https://github-readme-stats.vercel.app/api?username=bigDevContains&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="bigDevContain's GitHub stats" /></a>
 
 <a href="http://www.github.com/bigDevContains"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bigDevContains&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
